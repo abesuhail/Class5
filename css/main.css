@@ -1,0 +1,6 @@
+.active,
+.active a {
+	background-color: salmon;
+	font-size: 30px;
+	color: springgreen;
+}
